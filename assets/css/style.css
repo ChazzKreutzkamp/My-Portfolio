@@ -1,10 +1,16 @@
 :root {
-    --primary-color: #2b8dfb;
-    --secondary-color: #022176;
-    --tertiary-color: #47ccdb;
+    --primary-color: #07236e;
+    --secondary-color: #a4f0f0;
+    --tertiary-color: #dfe0ee;
+    --fourth-color: black;
 }
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+body {
+    background-color: var(--tertiary-color);
+    color: var(--primary-color);
+    font-family: Arial, Helvetica, sans-serif;
 }

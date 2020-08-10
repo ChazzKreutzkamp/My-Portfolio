@@ -6,3 +6,5 @@ the header had to be designed to navigate the page, and the work showcase sectio
 needed to be designed to display future and current projects with the first item being
 larger than the other items. The final aspect of consideration was to make the webpage
 responsive to different screen sizes.
+
+link: https://chazzkreutzkamp.github.io/My-Portfolio/

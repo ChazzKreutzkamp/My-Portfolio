@@ -164,6 +164,12 @@ header nav ul a:hover {
 .eat-card {
     background-image: url("../images/burger.JPG");
 }
+.author-card {
+    background-image: url("../images/author-img.JPG");
+}
+.goddess-card {
+    background-image: url("../images/the-statue-of-goddess-athena-in-front-of-the-austrian-parliament-in-vienna--856149104-5c7bee33c9e77c0001fd59ff.jpg");
+}
 .showcase-card {
     padding: 10px 20px;
     margin: 0px 0px 20px 0px;
